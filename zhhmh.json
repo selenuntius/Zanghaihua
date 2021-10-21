@@ -1,0 +1,25 @@
+{
+  "title": "Zanghaihua",
+  "description": "",
+  "artist": "Babu",
+  "author": "Nanpai Sanshu",
+  "cover": "https://imgur.com/a/b81X4cu",
+  "chapters": {
+    "10": {
+      "title": "10",
+      "volume": "2",
+      "last_updated": "1634832870",
+      "groups": {
+        "selenuntius": "/proxy/api/imgur/chapter/WAt8GBo"
+      }
+    },
+    "11": {
+      "title": "11",
+      "volume": "3",
+      "last_updated": "1634832953",
+      "groups": {
+        "selenuntius": "/proxy/api/imgur/chapter/PwoMa6X"
+      }
+    }
+  }
+}
